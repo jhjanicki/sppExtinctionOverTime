@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#textArea{
+  position:absolute;
+  top:100px;
+  left:100px;
+  max-width: 200px;
+  text-align: left;
+}
+
+#numNewSpp{
+  font-size: 14px;
+}
+
+#yearWrap, #totalWrap, #cumTotalWrap{
+  font-size:16px;
+}
